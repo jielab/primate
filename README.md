@@ -9,8 +9,6 @@
 > ### However, we would like to study “docking“ rather than “matching” between two 3-D structures, that is, how well these structures bind/fit onto each other/have a certain shape complementarity. For this type of analysis, we might need protein-protein docking tools, like ClusPro, HADDOCK, etc.
 
 ![RBD](./images/binding.gif)
-> - ### The above visualization is from "Wind and Words" By Impossible Bureau, ranked "The 25 Best Data Visualizations of 2018".
-
 <br/><br/>  
 
 
