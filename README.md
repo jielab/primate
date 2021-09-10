@@ -1,4 +1,4 @@
-# primitive: protein interaction and matching index that informs viral evaluation
+# PRIMATE: PRotein Interaction & MAtching of Three-dimension structurE
 
 <br/><br/>
 
